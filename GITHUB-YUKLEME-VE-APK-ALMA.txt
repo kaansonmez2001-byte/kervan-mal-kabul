@@ -1,0 +1,18 @@
+KERVAN MARKET - MAL KABUL
+GitHub'a yükleme ve APK alma
+
+1) GitHub'da kaansonmez2001-byte/kervan-mal-kabul reposunu açın.
+2) Code sekmesinde "Add file" > "Upload files" seçin.
+3) Bu ZIP'i bilgisayarda klasöre çıkarın.
+4) Çıkardığınız klasörün İÇİNDEKİ dosyaların tamamını GitHub yükleme alanına sürükleyin.
+   ÖNEMLİ: .github klasörünün de yüklendiğinden emin olun.
+5) Altta "Commit changes" butonuna basın.
+6) Üst menüden "Actions" sekmesine girin.
+7) Sol tarafta "Build Android APK" iş akışını açın.
+8) İlk yüklemede işlem otomatik başlayabilir. Başlamazsa "Run workflow" > "Run workflow" deyin.
+9) Build yeşil tik olunca çalışmaya tıklayın.
+10) Sayfanın altındaki Artifacts bölümünden "Kervan-Mal-Kabul-APK" dosyasını indirin.
+11) İnen ZIP'i açın. İçindeki Kervan-Mal-Kabul-v0.1.apk dosyasını Android telefona gönderin.
+12) Telefonda APK'ya dokunun. Gerekirse "Bu kaynaktan bilinmeyen uygulamalara izin ver" seçeneğini açıp yükleyin.
+
+Not: Bu ilk test sürümü debug APK'dır. Market içi test için kurulabilir. Son sürümde imzalı release APK/AAB hazırlanabilir.

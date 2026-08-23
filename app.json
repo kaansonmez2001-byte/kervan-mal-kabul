@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Kervan Mal Kabul",
+    "slug": "kervan-mal-kabul",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.kervanmarket.malkabul",
+      "versionCode": 1,
+      "permissions": [
+        "CAMERA"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Barkod okuyabilmek için kamera erişimine izin verin.",
+          "barcodeScannerEnabled": true
+        }
+      ]
+    ]
+  }
+}

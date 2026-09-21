@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs>
+  <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#064e46"/><stop offset="0.55" stop-color="#0fa66d"/><stop offset="1" stop-color="#4ade80"/></linearGradient>
+  <linearGradient id="g2" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#063c3a"/><stop offset="1" stop-color="#0d8f75"/></linearGradient>
+</defs>
+<rect width="1080" height="1080" fill="white"/>
+<g transform="translate(310 120)">
+  <path d="M85 60H210V260L390 60H535L315 300L540 550H385L210 350V550H85Z" fill="url(#g2)"/>
+  <path d="M210 345C280 245 355 140 500 60H540C465 170 390 260 315 320C275 352 245 382 210 430Z" fill="url(#g1)"/>
+</g>
+<text x="540" y="780" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="126" font-weight="700">
+  <tspan fill="#18232b">Kervan</tspan><tspan fill="#0aa66f">Soft</tspan>
+</text>
+<line x1="185" y1="855" x2="300" y2="855" stroke="#0aa66f" stroke-width="7" stroke-linecap="round"/>
+<line x1="780" y1="855" x2="895" y2="855" stroke="#0aa66f" stroke-width="7" stroke-linecap="round"/>
+<text x="540" y="875" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="42" letter-spacing="8" fill="#26323a">İşinizi Geleceğe Taşır</text>
+</svg>
